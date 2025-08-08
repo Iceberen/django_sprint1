@@ -44,7 +44,7 @@
     ```
     pip install -r requirements.txt
 
-4. Запустите игру:
+4. Запустите сервер:
     ```
     python3 manage.py runserver     # для Linux/macOS
     python manage.py runserver      # для Windows
